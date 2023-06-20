@@ -24,6 +24,7 @@ body {
     color: #d9dcd6;
 }
 
+/* Updated to use nav rather than a div */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,10 +33,12 @@ body {
     font-size: 20px;
 }
 
+/* Updated to use nav rather than a div */
 .header nav ul {
     list-style-type: none;
 }
 
+/* Updated to use nav rather than a div */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
